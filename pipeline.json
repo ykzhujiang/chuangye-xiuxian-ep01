@@ -1,0 +1,33 @@
+{
+  "project": "chuangye-xiuxian-ep01",
+  "created_at": "2026-04-07T21:39:13.400490+00:00",
+  "github_repo": "ykzhujiang/chuangye-xiuxian-ep01",
+  "config": {
+    "theme": "创业者修仙：创业者某天突然能看到商业世界的修仙本质——融资=渡劫、产品MVP=筑基、PMF=结金丹、竞品抄袭=心魔入侵、上市=飞升。主角林远坐在咖啡馆改BP，突然笔记本屏幕浮现金色修仙面板，显示融资境界筑基初期、灵石余额47万、A轮渡劫倒计时3天。他从震惊到苦笑到眼神燃起。",
+    "genre": "comedy",
+    "style": "anime",
+    "duration": 15,
+    "characters": 1,
+    "setting": "现代中国都市·咖啡馆",
+    "ratio": "9:16",
+    "episode": "1"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
