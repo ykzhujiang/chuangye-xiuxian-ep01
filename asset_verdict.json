@@ -1,0 +1,29 @@
+{
+  "verdict": "PASS",
+  "style": "anime",
+  "assets": [
+    {
+      "label": "林远",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "咖啡馆-午后",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    }
+  ],
+  "summary": "2/2 assets passed"
+}
